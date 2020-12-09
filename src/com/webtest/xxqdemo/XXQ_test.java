@@ -14,7 +14,7 @@ import com.webtest.zssdemo.ZSS_DataProvider;
 /**
  * 我的足迹
  * @author 邢晓倩
- *
+ *53条用例，其中FAIL：7个
  */
 public class XXQ_test extends BaseTest{
 	
