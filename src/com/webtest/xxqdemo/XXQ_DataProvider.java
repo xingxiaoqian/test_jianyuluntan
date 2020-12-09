@@ -6,6 +6,12 @@ import org.testng.annotations.DataProvider;
 
 import com.webtest.dataprovider.ExcelDataProvider;
 
+/**
+ * 我的足迹
+ * @author 邢晓倩
+ *
+ */
+
 public class XXQ_DataProvider {
 
 	@DataProvider(name = "neirong")
