@@ -47,11 +47,12 @@
         </classes>
     </test> -->
 
-<!--  <test name="xxq">
-       <classes>
-           <class name="com.webtest.xxqdemo.XXQ_test"></class>
-           <class name="com.webtest.xxqdemo.XXQ_DataProvider"></class>
-       </classes>
-   </test>-->
+<!--  <test name="xxq">-->
+<!--       <classes>  -->
+<!--           <class name="com.webtest.xxqdemo.XXQ_test"></class>  -->
+<!--           <class name="com.webtest.xxqdemo.XXQ_DataProvider"></class>  -->
+<!--       </classes>  -->
+<!--  </test>-->
+	
 </suite>
 
